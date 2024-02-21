@@ -145,6 +145,7 @@ nav a {
   box-sizing: border-box;
   margin: 50px;
   padding: 25px;
+  overflow: scroll;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
